@@ -1,6 +1,10 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-
 # see: https://github.com/janraasch/hugo-bearblog
 theme = 'hugo-bearblog'
+baseURL = 'https://blikstiender.com/'
+languageCode = 'en-us'
+title = 'Blikstiender!'
+
+
+[permalinks]
+  writing = "/:slug/"
+  tags = "/blog/:slug"
