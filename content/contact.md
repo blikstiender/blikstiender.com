@@ -1,7 +1,7 @@
 +++
-title = "Writing"
+title = "Contact"
 menu = "main"
-weight = 20
+weight = 2
 +++
 
 Email works. You can use the simple letter `i` followed by the domain you are reading this on.
