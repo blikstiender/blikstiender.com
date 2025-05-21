@@ -8,3 +8,8 @@ title = 'Blikstiender!'
 [permalinks]
   writing = "/:slug/"
   tags = "/blog/:slug"
+
+[[deployment.targets]]
+name = "aws"
+URL = "s3://blikstiender.com?region=us-east-1"
+cloudFrontDistributionID = "E1YMV3K31PNSG6"
