@@ -12,3 +12,10 @@ in \[insert post\].
 
 ___
 
+In creating a visual language for this website I employ the illustrations of famed naturalist [Ernest Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel). The Favicon is Haeckels
+[illustration](https://en.wikipedia.org/wiki/File:Haeckel_Spumellaria.jpg) of [Spumellaria](https://en.wikipedia.org/wiki/Spumellaria). Below you can see his illustration of various members of the [Orchid family](https://en.wikipedia.org/wiki/Orchid). Haeckel's work hinged on careful observation. This observation led him to find both beauty and structure. It also led him to disproven conclusions that were at times racist (and weaponized as such). I find Haeckel's journey instructive. It is through intentionally watching/listening/feeling the world that we arrive at novel conclusions about its structure. Yet, we should never let our conclusions blind us. The unexpected and under-considered is where both truth and magic live.
+
+
+![A botanical illustration of orchids](haeckel_orchids.jpg "orchids")
+*[Orchidae](https://en.m.wikipedia.org/wiki/File:Haeckel_Orchidae.jpg) by Ernst Haeckel*
+

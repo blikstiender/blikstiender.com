@@ -6,3 +6,6 @@ hugo.linux
 hugo.darwin
 .hugo_build.lock
 
+
+# Mac shennanigans
+.DS_Store
