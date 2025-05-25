@@ -6,8 +6,11 @@ title = 'Blikstiender!'
 
 
 [permalinks]
-  writing = "/:slug/"
-  tags = "/blog/:slug"
+  writing = "/writing/:slug/"
+  tags = "/tags/:slug"
+
+[taxonomies]
+  tag = "tags"
 
 [[deployment.targets]]
 name = "aws"

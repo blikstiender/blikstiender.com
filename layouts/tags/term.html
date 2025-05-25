@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<h2>Posts tagged with "{{ .Title }}"</h2>
+
+<p><a href="{{ "/tags/" | relLangURL }}">&larr; View all tags</a></p>
+
+<div class="posts-list">
+  {{ partial "page_list.html" . }}
+</div>
+
+{{ end }}
