@@ -9,3 +9,6 @@ hugo.darwin
 
 # Mac shennanigans
 .DS_Store
+
+# I use Obsidian for markdown authoring, but don't need it in source control.
+.obsidian
