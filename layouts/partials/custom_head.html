@@ -13,15 +13,33 @@ body {
   --background-color: #faf8f1;
   --link-color: var(--text-color);
   --visited-color: var(--text-color);
+  --width: 840px;
+  --width-image: 600px;
 }
 
-p a, footer a {
+p img, p img + em {
+  max-width: var(--width-image);
+  margin: 0 auto;
+  display: block;
+}
+
+p a, footer a, ul a {
   text-decoration: underline;
+}
+
+sup a {
+  text-decoration: none;
 }
 
 footer {
   font-size: calc(var(--font-scale) * 0.6);
 }
+
+
+.footnotes {
+  font-size: calc(var(--font-scale) * 0.8);
+}
+
 </style>
 
 <!-- icons generated using https://realfavicongenerator.net/ - a real gem! -->

@@ -6,6 +6,9 @@
     <a href="{{ "blog" | relURL }}">Remove filter</a>
   </small>
   {{ end }}
+  {{ if not .Data.Singular }}
+  <h1>Writing</h1>
   {{ partial "page_list.html" . }}
+  {{ end }}
 </content>
 {{ end }}
