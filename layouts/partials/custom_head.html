@@ -17,6 +17,12 @@ body {
   --width-image: 600px;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    --background-color: #1a1a1a;
+  }
+}
+
 p img, p img + em {
   width: var(--width-image);
   max-width: 100%;
@@ -41,6 +47,9 @@ footer {
   font-size: calc(var(--font-scale) * 0.8);
 }
 
+content h1, content h2 {
+  line-height: 1.2;
+}
 </style>
 
 <!-- icons generated using https://realfavicongenerator.net/ - a real gem! -->
