@@ -8,6 +8,7 @@ title: A Reflection on Three Players
 description: A quick thought on sports and hope
 ---
 # A Reflection on Three Players
+*September 5, 2025*
 
 ...at the eve of the US Open final. 
 
