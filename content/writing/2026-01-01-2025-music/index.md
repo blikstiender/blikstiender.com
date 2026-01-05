@@ -1,5 +1,5 @@
 ---
-Title: 8 Albums I Really Enjoyed in 2025
+title: 8 Albums I Really Enjoyed in 2025
 description: Briefly listing 8 albums I enjoyed in 2025
 slug: 2026-01-01-2025-music
 tags:

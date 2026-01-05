@@ -6,11 +6,13 @@
 # Maybe one day I'll also throw in some terraform for the S3 bucket + cloudfront dist I have for
 # this website. One day...
 
-set -euo
+set -euo pipefail
 
 WEBSITE_DIR="$( cd "$(dirname "$0")/.." >/dev/null 2>&1 ; pwd -P )"
 cd "$WEBSITE_DIR"
 
+# Run content checks
+"$WEBSITE_DIR/for-me/check.sh"
 
 # generate the public dir
 hugo
