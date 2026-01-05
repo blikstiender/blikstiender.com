@@ -6,6 +6,10 @@ stupid" and all that.
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
 <style>
+html {
+  height: 100%;
+}
+
 body {
   --font-main: "Crimson Text", serif;
   --font-secondary: "Crimson Text", serif;
@@ -15,6 +19,11 @@ body {
   --visited-color: var(--text-color);
   --width: 840px;
   --width-image: 600px;
+
+  padding: 0;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -38,10 +47,15 @@ sup a {
   text-decoration: none;
 }
 
-footer {
-  font-size: calc(var(--font-scale) * 0.6);
+main {
+  margin-bottom: 2em;
 }
 
+footer {
+  font-size: calc(var(--font-scale) * 0.6);
+
+  margin-top: auto;
+}
 
 .footnotes {
   font-size: calc(var(--font-scale) * 0.8);
