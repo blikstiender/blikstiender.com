@@ -4,11 +4,11 @@ description: Briefly listing 8 albums I enjoyed in 2025
 slug: 2026-01-01-2025-music
 tags:
   - Music
-  - Writing
+  - Miscellane
 date: 2026-01-01
 ---
 
-# 8 Albums I Really Enjoyed in 2025
+# **Miscellanea**: 8 Albums I Really Enjoyed in 2025
 
 *January 1, 2025*
 

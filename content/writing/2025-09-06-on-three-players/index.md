@@ -2,12 +2,13 @@
 tags:
   - Writing
   - Sports
+  - Miscellane
 slug: 2025-09-05-on-three-players
 date: 2025-09-05
-title: A Reflection on Three Players
+title: "Miscellanea: A Reflection on Three Players"
 description: A quick thought on sports and hope
 ---
-# A Reflection on Three Players
+# **Miscellanea**: A Reflection on Three Players
 *September 5, 2025*
 
 ...at the eve of the US Open final. 

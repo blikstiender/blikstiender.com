@@ -3,7 +3,6 @@ description: On how I think about this writing
 title: "Discussion: On Starting a Web Log in Two Thousand and Twenty Five Anno Domini"
 tags:
   - Discussion
-  - Writing 
   - AI
 slug: 2025-05-25-why-blog-now
 date: 2025-05-25
