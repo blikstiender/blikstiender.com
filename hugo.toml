@@ -3,6 +3,7 @@ theme = 'hugo-bearblog'
 baseURL = 'https://blikstiender.com/'
 languageCode = 'en-us'
 title = 'Blikstiender!'
+contentDir = 'blikstiender'
 
 
 [permalinks]
